@@ -16,7 +16,7 @@ Per comprimir els fitxers i poder enviar la sol·lució només cal fer:
 make tar
 ```
 
-El qual ens comprimirà els fitxers *CuaIOParint.hh*, *CuaIOParint.cc* i *program.cc*.
+El qual ens comprimirà els fitxers *CuaIOParInt.hh*, *CuaIOParInt.cc* i *program.cc*.
 
 Per últim si volem deixar la carpeta tal com estava en el moment de clonar el respositori, només hem de fer:
 
