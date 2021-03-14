@@ -1,6 +1,6 @@
 # Exercici X13425 del jutge.org
 
-Exercici X13245 resolt, utilitzant la classe Parint donada pel mateix programa, així com la implementació de les dues noves funcions, i el corresponent fitxer Makefile.
+Exercici X13245 resolt, utilitzant la classe ParInt donada pel mateix programa, així com la implementació de les dues noves funcions, i el corresponent fitxer Makefile.
 
 ## Utilització
 Un cop clonat el repositori, sha d'executar a la consola l'instrucció:
